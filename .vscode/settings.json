@@ -1,5 +1,5 @@
 {
     "java.completion.enabled": true,
-    "java.debug.settings.enableRunDebugCodeLens": true,
+    "java.debug.settings.enableRunDebugCodeLens": false,
     "java.test.editor.enableShortcuts": true
 }
